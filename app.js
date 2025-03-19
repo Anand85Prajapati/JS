@@ -1,4 +1,6 @@
- let age = 20;
+//else if statements in age in vote dene ka list
+
+let age = 20;
 
  if(age >= 18){
   console.log("yes can vote");
